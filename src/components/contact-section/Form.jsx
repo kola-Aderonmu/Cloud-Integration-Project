@@ -28,7 +28,7 @@ const formInputs = [
 
 const Form = () => (
   <form className="form">
-    //contact us form for feedbacks
+    {/* //contact us form for feedbacks */}
     <h2 className="form-h2">Send us a message</h2>
 
     {formInputs.map((input) => (
