@@ -4,6 +4,7 @@ import "./intro.css";
 
 const Intro = () => (
   <div className="intro-container">
+    //Creating a home tab for the "Our Mission"
     <h2 className="intro-h2">Our Mission</h2>
 
     <p className="intro-p">

@@ -9,10 +9,9 @@ import Intro from "./components/intro/Intro";
 function App() {
   // Creating the location that we want to point to
   const location = {
-    address:
-      "5A, Nyasa Close, off Ontario Crescent, off Mississippi, Maitama Abuja",
+    address: "1600 Amphitheatre Parkway, Mountain View, Abuja.",
     lat: 12.088469,
-    lng: 7.483052,
+    lng: 4.483052,
   };
   return (
     <>
