@@ -1,0 +1,19 @@
+.footer {
+  display: flex;
+  justify-content: flex-end;
+  background-color: rgb(80, 77, 77);
+  color: whitesmoke;
+  padding-right: 10px;
+  border-radius: 15px;
+}
+
+.footer-copyright {
+  font-size: 0.8rem;
+  opacity: 0.7;
+}
+
+@media screen and (min-width: 699px) {
+  .footer {
+    padding-right: 40px;
+  }
+}
